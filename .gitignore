@@ -1,1 +1,3 @@
 .env 
+# Ignore the help folder and everything inside it
+help/
